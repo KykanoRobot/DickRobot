@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "Dick Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
+   "logo":    "https://telegra.ph/file/20bd9255c7e080486d24d.jpg",  
    "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
    "addons": [
           {
