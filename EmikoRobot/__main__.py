@@ -113,7 +113,7 @@ Click on the button bellow to get description about specifics command."""
 EMI_IMG = "https://telegra.ph/file/7f0e44ad2ef89b68cfc2c.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @excrybaby \
+ You can support the project by contacting @staytomoonn \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -367,7 +367,7 @@ def emiko_about_callback(update, context):
             "\n• I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc."
             "\n• I have a note keeping system, blacklists, and even predetermined replies on certain keywords."
             "\n• I check for admins' permissions before executing any command and more stuffs"
-            "\n\n_Emiko's licensed under the GNU General Public License v3.0_"
+            "\n\n_Kayno licensed under the GNU General Public License v3.0_"
             "\n\n Click on button bellow to get basic help for KaynoRobot.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -453,7 +453,7 @@ def emiko_about_callback(update, context):
         )
 
 
-    elif query.data == "Kayno_credit":
+    elif query.data == "emiko_credit":
         query.message.edit_text(
             text=f"๏ Credis for Kayno\n"
             "\nHere Developers Making And Give Inspiration For Made The KaynoRobot",
