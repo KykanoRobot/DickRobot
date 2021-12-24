@@ -453,7 +453,7 @@ def emiko_about_callback(update, context):
         )
 
 
-     elif query.data == "emiko_credit":
+   elif query.data == "emiko_credit":
         query.message.edit_text(
             text=f"๏ Credis for Kayno\n"
             "\nHere Developers Making And Give Inspiration For Made Kayno",
