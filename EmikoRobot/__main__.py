@@ -442,7 +442,7 @@ def emiko_about_callback(update, context):
                 [
                  [
                     InlineKeyboardButton(text="Support", url="https://t.me/leave_to_me"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/ShesGoodbye"),
+                    InlineKeyboardButton(text="Updates", url="https://t.me/Kayno_support"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="emiko_"),
