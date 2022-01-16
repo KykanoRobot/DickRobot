@@ -33,7 +33,7 @@ This Bot is Created by DezkyFtDick, If your kanging this without fork at least g
 
 ### Support
 <p>
-<a href="https://t.me/staytomoonn"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
+<a href="https://t.me/staytomoonn"> <img src="https://img.shields.io/badge/Dezky's-blue?&logo=telegram" alt="Dezky's on Telegram" /> </a><br>
 <a href="https://t.me/leave_to_me"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/Kayno_support"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
