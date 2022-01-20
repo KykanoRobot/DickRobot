@@ -92,7 +92,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Kayno Robot", callback_data="emiko_"),
+        InlineKeyboardButton(text="About Dezky's Robot", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -102,7 +102,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Kayno To Your Group ➗", url="t.me/KaynoRobot_bot?startgroup=new"),
+            text="➗ Add Kayno To Your Group ➗", url="t.me/RobotDick_bot?startgroup=new"),
     ],
 ]
 
