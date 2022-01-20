@@ -102,7 +102,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Kayno To Your Group ➗", url="t.me/RobotDick_bot?startgroup=new"),
+            text="➗ Add Dezky's To Your Group ➗", url="t.me/RobotDick_bot?startgroup=new"),
     ],
 ]
 
@@ -229,7 +229,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            f"<b>Hi I'm Kayno robot!</b>\n<b>Started working since:</b> <code>{uptime}</code>",
+            f"<b>Hi I'm Dezky's robot!</b>\n<b>Started working since:</b> <code>{uptime}</code>",
             parse_mode=ParseMode.HTML
        )
 
@@ -430,7 +430,7 @@ def emiko_about_callback(update, context):
             f"\n\nYou can also set buttons for notes and filters (refer help menu)",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Go Back", callback_data="Kayno_")]]
+                [[InlineKeyboardButton(text="Go Back", callback_data="Dezky's_")]]
             ),
         )
     elif query.data == "emiko_support":
