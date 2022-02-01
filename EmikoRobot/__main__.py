@@ -92,7 +92,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Dezky's Robot", callback_data="emiko_"),
+        InlineKeyboardButton(text="About Okiyo Robot", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -102,7 +102,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Dezky's To Your Group ➗", url="t.me/RobotDick_bot?startgroup=new"),
+            text="➗ Add Okiyo To Your Group ➗", url="t.me/RobotDick_bot?startgroup=new"),
     ],
 ]
 
@@ -461,7 +461,7 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Dicky", url="https://t.me/staytomoonn"),
+                    InlineKeyboardButton(text="Dezky's", url="https://t.me/staytomoonn"),
                  ],
                  [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_"),
