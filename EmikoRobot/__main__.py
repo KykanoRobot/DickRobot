@@ -442,7 +442,7 @@ def emiko_about_callback(update, context):
                 [
                  [
                     InlineKeyboardButton(text="Support", url="https://t.me/leave_to_me"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/Kayno_support"),
+                    InlineKeyboardButton(text="Updates", url="ttps://t.me/DezkyProject"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="emiko_"),
@@ -456,7 +456,7 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_credit":
         query.message.edit_text(
             text=f"๏ Credis for Kayno\n"
-            "\nHere Developers Making And Give Inspiration For Made Kayno",
+            "\nHere Developers Making And Give Inspiration For Made Dick",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
