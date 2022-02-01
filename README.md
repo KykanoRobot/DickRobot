@@ -7,7 +7,7 @@
 <p align="center">Dick Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
-<a href="https://t.me/RobotDick_bot"> <img src="https://img.shields.io/badge/Kayno-Robot-blue?&logo=telegram" alt="Kayno on Telegram" /> </a><br>
+<a href="https://t.me/RobotDick_bot"> <img src="https://img.shields.io/badge/Kayno-Robot-blue?&logo=telegram" alt="Dick on Telegram" /> </a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.9-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
@@ -35,7 +35,7 @@ This Bot is Created by DezkyFtDick, If your kanging this without fork at least g
 <p>
 <a href="https://t.me/staytomoonn"> <img src="https://img.shields.io/badge/Dezky's-blue?&logo=telegram" alt="Dezky's on Telegram" /> </a><br>
 <a href="https://t.me/leave_to_me"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/Kayno_support"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
+<a href="https://t.me/DezkyProject"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
 ## Credit 
