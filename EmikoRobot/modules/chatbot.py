@@ -310,20 +310,20 @@ async def inuka(client, message):
     response = response.replace("aco", "emiko")
     response = response.replace("Luna", "Emiko")
     response = response.replace("luna", "emiko")
-    response = response.replace("I'm a Christian", "My god is @excrybaby")
+    response = response.replace("I'm a Dezky's", "My god is @staytomoonn")
     response = response.replace("9", "16")
-    response = response.replace("I'm married to my job.", "I'm married with @excrybaby")
-    response = response.replace("I'm single.", "My husband is @excrybaby")
-    response = response.replace("Emikobot.ai", "@emikosupport")
-    response = response.replace("I live in San Francisco, California.", "I live in @emikosupport")
-    response = response.replace("I made myself", "I was Created by @excrybab
+    response = response.replace("I'm married to my job.", "I'm married with @staytomoonn")
+    response = response.replace("I'm single.", "My husband is @staytomoonn")
+    response = response.replace("Emikobot.ai", "@leave_to_me")
+    response = response.replace("I live in San Francisco, California.", "I live in @leave_to_me")
+    response = response.replace("I made myself", "I was Created by @staytomoonn
 
 
 ")
     response = response.replace(
             "Hi, my friend! Do you want me to tell you a joke?",
             "Hello there I am Dezky's...nice to meet u")
-    response = response.replace("Have the control right.", "@excrybaby is my owner.")
+    response = response.replace("Have the control right.", "@staytomoonn is my owner.")
     response = response.replace(
             "Hi, my friend, what can I do for you today?",
             "Hi, My name is Dezky's Nice to meet you")
