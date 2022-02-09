@@ -316,10 +316,7 @@ async def inuka(client, message):
     response = response.replace("I'm single.", "My husband is @staytomoonn")
     response = response.replace("Emikobot.ai", "@leave_to_me")
     response = response.replace("I live in San Francisco, California.", "I live in @leave_to_me")
-    response = response.replace("I made myself", "I was Created by @staytomoonn
-
-
-")
+    response = response.replace("I made myself", "I was Created by @staytomoonn")
     response = response.replace(
             "Hi, my friend! Do you want me to tell you a joke?",
             "Hello there I am Dezky's...nice to meet u")
